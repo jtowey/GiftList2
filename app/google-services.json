@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "333110349984-r84rk0pa31g1t3b87haungkeoahvrpt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jc2e.giftlist",
+            "certificate_hash": "cd4c4e856c2ef1067deef0ca33b619a720cff956"
+          }
+        },
+        {
           "client_id": "333110349984-viinklm2eq6gos9ciab3imt82safrga5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -30,6 +38,9 @@
       "api_key": [
         {
           "current_key": "AIzaSyAGlKfPRtsp11o_tEH6BTPq713Kb2tbe9g"
+        },
+        {
+          "current_key": "AIzaSyBzeXkx4fGZXXCbaQhwFe8s0eZkKz2I1Us"
         }
       ],
       "services": {
